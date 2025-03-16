@@ -1,0 +1,41 @@
+ID_empleado,Nombre_Apellido,DNI,Domicilio,Ciudad,País,ID_nacionalidad,Móvil,Correo_electrónico,N_cuenta_bancaria,Fecha_nacimiento,Sexo,ID_puesto
+1,Angelino Matas Perez,92907166,Cañada Elisa Robles 91 Piso 1 ,Sangüesa,España,1,63307919,angelino_matas_perez@ejemplo.com,'020130228767115948488,1987-10-18,Hombre,10
+2,Herminio Rocamora Prieto,83483364,Urbanización Nerea Mendizábal 83 Puerta 9 ,Alsasua,España,3,61855598,herminio_rocamora_prieto@ejemplo.com,'547361877809892866632,1983-08-14,Mujer,19
+3,Anita Jordá Márquez,47336147,Urbanización de Jose Manuel Jove 89 Puerta 7 ,Pamplona,España,8,67621068,anita_jordá_márquez@ejemplo.com,'508279594584375745039,1997-08-08,Mujer,41
+4,Paz Aranda Parra,25994525,Pasaje de Dalila Cuéllar 2,Sangüesa,España,1,66943444,paz_aranda_parra@ejemplo.com,'921927536802613790983,1992-12-01,Mujer,57
+5,Cristian del Tenorio,62070559,Urbanización de Ana Sofía Méndez 46 Apt. 73 ,Baztan,España,1,68254069,cristian_del_tenorio@ejemplo.com,'948352271463254240064,1999-04-01,Mujer,56
+6,Soledad Jáuregui Saavedra,18115149,Avenida de Clemente Lamas 21 Apt. 16 ,Tudela,España,2,61748985,soledad_jáuregui_saavedra@ejemplo.com,'770245859380360781445,1980-06-07,Mujer,7
+7,Rebeca Noemí Cervera Morcillo,57838345,Via Sandalio Pujol 312,Estella,España,5,67338554,rebeca_noemí_cervera_morcillo@ejemplo.com,'816114034385535047354,1969-04-10,Mujer,51
+8,Daniela Tomé Vara,16059152,Camino de Carina Sedano 650,Sangüesa,España,1,65511217,daniela_tomé_vara@ejemplo.com,'108836856968774411815,1983-10-29,No especifica,17
+9,Gabriela Antúnez Losa,19779422,Plaza Leyre Izquierdo 75 Puerta 7 ,Elizondo,España,1,62774797,gabriela_antúnez_losa@ejemplo.com,'309562685130635463577,1998-05-01,No especifica,40
+10,Aitana Martin Moreno,66503010,Glorieta Mirta Prada 370,Bera,España,4,69719202,aitana_martin_moreno@ejemplo.com,'641881194602323842712,1974-12-23,Mujer,12
+11,Felix del Monreal,73321968,Calle de Agustina Marqués 590,Alsasua,España,7,61656157,felix_del_monreal@ejemplo.com,'973844410836228679199,1998-05-07,Hombre,26
+12,Heraclio Perera Benavides,78505931,Callejón Andrés Rincón 611 Apt. 10 ,Bera,España,5,68325280,heraclio_perera_benavides@ejemplo.com,'313477838917061683507,1977-02-28,Hombre,44
+13,Jose Antonio Casanova-Velasco,32092013,Cuesta de Ana Sofía Medina 22,Tudela,España,5,68986762,jose_antonio_casanova-velasco@ejemplo.com,'085977239131893420767,1975-06-05,Mujer,43
+14,Yaiza Antonia Cazorla Portillo,74858616,Acceso de Fidela Barberá 17 Apt. 88 ,Pamplona,España,1,63389918,yaiza_antonia_cazorla_portillo@ejemplo.com,'276387523891079279863,1973-05-13,Mujer,6
+15,Abilio Albero Diez,45259031,Plaza de Gracia Río 64,Alsasua,España,1,62546789,abilio_albero_diez@ejemplo.com,'964573143700927926330,1989-04-04,Mujer,60
+16,Jose Francisco Peralta Campos,14284266,Urbanización Vasco Sureda 908 Puerta 4 ,Sangüesa,España,3,64356206,jose_francisco_peralta_campos@ejemplo.com,'887647949660440638232,1972-09-16,Hombre,41
+17,Dorotea Murillo Baños,65564729,Via de Isidro Salas 24 Apt. 62 ,Alsasua,España,7,60076860,dorotea_murillo_baños@ejemplo.com,'110099015042304766824,1970-10-01,Mujer,49
+18,Severo Barrena Pazos,31863690,C. de Fabián Abascal 89 Piso 2 ,Bera,España,6,65420619,severo_barrena_pazos@ejemplo.com,'359219375085304640469,1991-08-07,Hombre,17
+19,Miriam del Bolaños,14836621,Alameda de Calixta Jove 80 Apt. 71 ,Baztan,España,1,67654519,miriam_del_bolaños@ejemplo.com,'370468769639015040716,1994-10-29,No especifica,56
+20,Ciriaco Salvador,89232526,Pasaje Fanny Camino 71,Elizondo,España,5,64405356,ciriaco_salvador@ejemplo.com,'428639649005653874511,1973-04-30,No especifica,42
+21,Olegario Vázquez Salgado,32607623,Pasadizo Leonor Patiño 705 Apt. 59 ,Baztan,España,5,63947292,olegario_vázquez_salgado@ejemplo.com,'673548815525150516467,1987-07-08,Hombre,9
+22,Evita Elba Luján Ibarra,92573475,Acceso de Yéssica Falcón 54,Tudela,España,1,65067123,evita_elba_luján_ibarra@ejemplo.com,'498955703511647712960,1987-02-07,Mujer,57
+23,Baltasar Ferrándiz-Mateo,29757374,Rambla Otilia Lladó 683 Puerta 2 ,Estella,España,1,65588962,baltasar_ferrándiz-mateo@ejemplo.com,'043134846458638945633,1992-09-29,Hombre,12
+24,Irma Alcalá Chacón,55165356,Alameda de Ezequiel Cañizares 20,Baztan,España,8,64714957,irma_alcalá_chacón@ejemplo.com,'393180324950361565397,1988-12-19,Hombre,44
+25,Mario Bermúdez Sarmiento,77799941,Callejón Nydia Atienza 31,Sangüesa,España,2,69049204,mario_bermúdez_sarmiento@ejemplo.com,'739057928576474804919,1968-07-28,Hombre,43
+26,Alondra Briones Palacios,21451749,Pasaje de Eli Pozuelo 7 Puerta 1 ,Tudela,España,1,65403655,alondra_briones_palacios@ejemplo.com,'354742163248435508232,1980-06-11,Hombre,32
+27,Graciela Niño Cuevas,52494181,Urbanización Primitiva Tapia 1,Alsasua,España,7,65831206,graciela_niño_cuevas@ejemplo.com,'617463942808083987507,1996-10-25,Hombre,15
+28,Emelina Cerdá Beltrán,46259730,Callejón de Maximiliano Cuadrado 777 Apt. 10 ,Tudela,España,1,60974006,emelina_cerdá_beltrán@ejemplo.com,'894386028055087946157,1991-12-15,Hombre,43
+29,Adelardo Aznar Noguera,14250005,Paseo Teófilo Villegas 28 Piso 0 ,Bera,España,2,66705541,adelardo_aznar_noguera@ejemplo.com,'854262431304152973640,1984-07-28,Mujer,45
+30,Celso Yáñez-Rebollo,26124830,Ronda de Clementina Araujo 36 Piso 0 ,Sangüesa,España,2,69950615,celso_yáñez-rebollo@ejemplo.com,'640492957182536719198,2000-02-10,Mujer,51
+31,Nydia Aroca Vendrell,40046156,Pasadizo de Gustavo Higueras 278,Estella,España,2,66875041,nydia_aroca_vendrell@ejemplo.com,'014029996616424421499,1998-11-27,Mujer,2
+32,Américo Quevedo-Cuéllar,74216149,Callejón Jacinto Bosch 7,Baztan,España,1,62801194,américo_quevedo-cuéllar@ejemplo.com,'799171118756156009188,1970-05-27,Hombre,51
+33,Ciríaco Redondo-Hernández,58332384,Rambla Alma Báez 80,Tudela,España,1,60897781,ciríaco_redondo-hernández@ejemplo.com,'561601850550052268015,1984-01-27,Hombre,48
+34,Luz Chaparro Marco,17947415,Rambla Sandalio Porcel 8,Pamplona,España,1,69668623,luz_chaparro_marco@ejemplo.com,'895799961480735512390,1975-01-17,Mujer,60
+35,Flavio de Clemente,16958619,Plaza Carlito Torres 9 Apt. 58 ,Alsasua,España,1,61658213,flavio_de_clemente@ejemplo.com,'871765382944220563530,1980-11-29,Hombre,18
+36,Lucio Isidoro Menéndez Jover,28493697,Pasadizo de Sabina Chico 56 Piso 2 ,Bera,España,1,62608911,lucio_isidoro_menéndez_jover@ejemplo.com,'840383489326457687881,1969-09-24,Hombre,48
+37,Hilario Ramiro Flor Acosta,80839213,Plaza Eva Cisneros 167,Alsasua,España,7,67946972,hilario_ramiro_flor_acosta@ejemplo.com,'575629685783449660218,1978-04-15,Hombre,7
+38,Cruz Sala Carro,14065452,Cañada Evelia Fajardo 14,Sangüesa,España,4,68939818,cruz_sala_carro@ejemplo.com,'749618865249998164279,2000-03-23,Hombre,44
+39,Juan José Feliu,39212282,C. de Leocadia Olivé 592 Puerta 5 ,Pamplona,España,5,68928243,juan_josé_feliu@ejemplo.com,'420690948105142721895,1998-07-11,Mujer,13
+40,Angelina Morell-Villalba,63922275,Pasadizo de Encarna Ruano 1 Puerta 7 ,Estella,España,3,65364782,angelina_morell-villalba@ejemplo.com,'432720947081338271034,1992-08-15,Mujer,49
